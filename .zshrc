@@ -105,5 +105,6 @@ source $ZSH/oh-my-zsh.sh
 #initialize Z (https://github.com/rupa/z) 
 . ~/z.sh 
 
+#danielhabib
 alias gg="git status"
 git config --global core.pager ''
